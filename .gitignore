@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+reports/results_runs.csv
+reports/results_summary.json
+reports/plots/
